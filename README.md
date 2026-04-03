@@ -1,0 +1,2 @@
+# ImageClassification_modelcomparison
+北邮AI信息网络实验-test1-基于PyTorch的经典卷积神经⽹络图像分类性能对⽐
